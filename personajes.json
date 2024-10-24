@@ -1,0 +1,177 @@
+[
+  {
+    "nombre": "Goku",
+    "es_saiyan": true,
+    "nivel_poder": 1000000000,
+    "transformaciones": ["Super Saiyan", "Super Saiyan Blue", "Ultra Instinct"],
+    "universo": 7
+  },
+  {
+    "nombre": "Vegeta",
+    "es_saiyan": true,
+    "nivel_poder": 950000000,
+    "transformaciones": ["Super Saiyan", "Super Saiyan Blue", "Ultra Ego"],
+    "universo": 7
+  },
+  {
+    "nombre": "Gohan",
+    "es_saiyan": true,
+    "nivel_poder": 850000000,
+    "transformaciones": ["Super Saiyan", "Ultimate Gohan", "Beast"],
+    "universo": 7
+  },
+  {
+    "nombre": "Piccolo",
+    "es_saiyan": false,
+    "nivel_poder": 700000000,
+    "transformaciones": ["Orange Piccolo"],
+    "universo": 7
+  },
+  {
+    "nombre": "Trunks",
+    "es_saiyan": true,
+    "nivel_poder": 600000000,
+    "transformaciones": ["Super Saiyan", "Super Saiyan Rage"],
+    "universo": 7
+  },
+  {
+    "nombre": "Broly",
+    "es_saiyan": true,
+    "nivel_poder": 1200000000,
+    "transformaciones": ["Legendary Super Saiyan"],
+    "universo": 7
+  },
+  {
+    "nombre": "Freezer",
+    "es_saiyan": false,
+    "nivel_poder": 900000000,
+    "transformaciones": ["Golden Freezer", "Black Freezer"],
+    "universo": 7
+  },
+  {
+    "nombre": "Krillin",
+    "es_saiyan": false,
+    "nivel_poder": 2000000,
+    "transformaciones": [],
+    "universo": 7
+  },
+  {
+    "nombre": "Bulma",
+    "es_saiyan": false,
+    "nivel_poder": 5,
+    "transformaciones": [],
+    "universo": 7
+  },
+  {
+    "nombre": "Majin Buu",
+    "es_saiyan": false,
+    "nivel_poder": 800000000,
+    "transformaciones": ["Super Buu", "Kid Buu"],
+    "universo": 7
+  },
+  {
+    "nombre": "Goten",
+    "es_saiyan": true,
+    "nivel_poder": 400000000,
+    "transformaciones": ["Super Saiyan"],
+    "universo": 7
+  },
+  {
+    "nombre": "Beerus",
+    "es_saiyan": false,
+    "nivel_poder": 1100000000,
+    "transformaciones": [],
+    "universo": 7
+  },
+  {
+    "nombre": "Whis",
+    "es_saiyan": false,
+    "nivel_poder": 1500000000,
+    "transformaciones": [],
+    "universo": 7
+  },
+  {
+    "nombre": "Zeno",
+    "es_saiyan": false,
+    "nivel_poder": 9999999999,
+    "transformaciones": [],
+    "universo": 0
+  },
+  {
+    "nombre": "Jiren",
+    "es_saiyan": false,
+    "nivel_poder": 1200000000,
+    "transformaciones": [],
+    "universo": 11
+  },
+  {
+    "nombre": "Caulifla",
+    "es_saiyan": true,
+    "nivel_poder": 700000000,
+    "transformaciones": ["Super Saiyan", "Super Saiyan 2"],
+    "universo": 6
+  },
+  {
+    "nombre": "Kale",
+    "es_saiyan": true,
+    "nivel_poder": 950000000,
+    "transformaciones": ["Legendary Super Saiyan"],
+    "universo": 6
+  },
+  {
+    "nombre": "Cabba",
+    "es_saiyan": true,
+    "nivel_poder": 600000000,
+    "transformaciones": ["Super Saiyan"],
+    "universo": 6
+  },
+  {
+    "nombre": "Hit",
+    "es_saiyan": false,
+    "nivel_poder": 1000000000,
+    "transformaciones": [],
+    "universo": 6
+  },
+  {
+    "nombre": "Android 17",
+    "es_saiyan": false,
+    "nivel_poder": 850000000,
+    "transformaciones": [],
+    "universo": 7
+  },
+  {
+    "nombre": "Android 18",
+    "es_saiyan": false,
+    "nivel_poder": 600000000,
+    "transformaciones": [],
+    "universo": 7
+  },
+  {
+    "nombre": "Cell",
+    "es_saiyan": false,
+    "nivel_poder": 900000000,
+    "transformaciones": ["Perfect Cell"],
+    "universo": 7
+  },
+  {
+    "nombre": "Tien",
+    "es_saiyan": false,
+    "nivel_poder": 1000000,
+    "transformaciones": [],
+    "universo": 7
+  },
+  {
+    "nombre": "Yamcha",
+    "es_saiyan": false,
+    "nivel_poder": 500000,
+    "transformaciones": [],
+    "universo": 7
+  },
+  {
+    "nombre": "Videl",
+    "es_saiyan": false,
+    "nivel_poder": 10000,
+    "transformaciones": [],
+    "universo": 7
+  }
+]
