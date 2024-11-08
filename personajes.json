@@ -4,174 +4,249 @@
     "es_saiyan": true,
     "nivel_poder": 1000000000,
     "transformaciones": ["Super Saiyan", "Super Saiyan Blue", "Ultra Instinct"],
-    "universo": 7
+    "numero_transformaciones": 3,
+    "universo": 7,
+    "rango": "Guerrero Z",
+    "tecnica_favorita": "Kamehameha"
   },
   {
     "nombre": "Vegeta",
     "es_saiyan": true,
     "nivel_poder": 950000000,
     "transformaciones": ["Super Saiyan", "Super Saiyan Blue", "Ultra Ego"],
-    "universo": 7
+    "numero_transformaciones": 3,
+    "universo": 7,
+    "rango": "Príncipe de los Saiyans",
+    "tecnica_favorita": "Final Flash"
   },
   {
     "nombre": "Gohan",
     "es_saiyan": true,
     "nivel_poder": 850000000,
     "transformaciones": ["Super Saiyan", "Ultimate Gohan", "Beast"],
-    "universo": 7
+    "numero_transformaciones": 3,
+    "universo": 7,
+    "rango": "Guerrero Z",
+    "tecnica_favorita": "Masenko"
   },
   {
     "nombre": "Piccolo",
     "es_saiyan": false,
     "nivel_poder": 700000000,
     "transformaciones": ["Orange Piccolo"],
-    "universo": 7
+    "numero_transformaciones": 1,
+    "universo": 7,
+    "rango": "Guerrero Z",
+    "tecnica_favorita": "Makankosappo"
   },
   {
     "nombre": "Trunks",
     "es_saiyan": true,
     "nivel_poder": 600000000,
     "transformaciones": ["Super Saiyan", "Super Saiyan Rage"],
-    "universo": 7
+    "numero_transformaciones": 2,
+    "universo": 7,
+    "rango": "Guerrero del Futuro",
+    "tecnica_favorita": "Espada de energía"
   },
   {
     "nombre": "Broly",
     "es_saiyan": true,
     "nivel_poder": 1200000000,
     "transformaciones": ["Legendary Super Saiyan"],
-    "universo": 7
+    "numero_transformaciones": 1,
+    "universo": 7,
+    "rango": "Saiyan Legendario",
+    "tecnica_favorita": "Blaster Meteor"
   },
   {
     "nombre": "Freezer",
     "es_saiyan": false,
     "nivel_poder": 900000000,
     "transformaciones": ["Golden Freezer", "Black Freezer"],
-    "universo": 7
+    "numero_transformaciones": 2,
+    "universo": 7,
+    "rango": "Emperador del Universo",
+    "tecnica_favorita": "Death Beam"
   },
   {
     "nombre": "Krillin",
     "es_saiyan": false,
     "nivel_poder": 2000000,
     "transformaciones": [],
-    "universo": 7
+    "numero_transformaciones": 0,
+    "universo": 7,
+    "rango": "Guerrero Z",
+    "tecnica_favorita": "Kienzan"
   },
   {
     "nombre": "Bulma",
     "es_saiyan": false,
     "nivel_poder": 5,
     "transformaciones": [],
-    "universo": 7
+    "numero_transformaciones": 0,
+    "universo": 7,
+    "rango": "Científica",
+    "tecnica_favorita": "Invenciones tecnológicas"
   },
   {
     "nombre": "Majin Buu",
     "es_saiyan": false,
     "nivel_poder": 800000000,
     "transformaciones": ["Super Buu", "Kid Buu"],
-    "universo": 7
+    "numero_transformaciones": 2,
+    "universo": 7,
+    "rango": "Majin",
+    "tecnica_favorita": "Transfiguración"
   },
   {
     "nombre": "Goten",
     "es_saiyan": true,
     "nivel_poder": 400000000,
     "transformaciones": ["Super Saiyan"],
-    "universo": 7
+    "numero_transformaciones": 1,
+    "universo": 7,
+    "rango": "Guerrero Z",
+    "tecnica_favorita": "Kamehameha"
   },
   {
     "nombre": "Beerus",
     "es_saiyan": false,
     "nivel_poder": 1100000000,
     "transformaciones": [],
-    "universo": 7
+    "numero_transformaciones": 0,
+    "universo": 7,
+    "rango": "Dios de la Destrucción",
+    "tecnica_favorita": "Hakai"
   },
   {
     "nombre": "Whis",
     "es_saiyan": false,
     "nivel_poder": 1500000000,
     "transformaciones": [],
-    "universo": 7
+    "numero_transformaciones": 0,
+    "universo": 7,
+    "rango": "Ángel",
+    "tecnica_favorita": "Doctrina egoísta"
   },
   {
     "nombre": "Zeno",
     "es_saiyan": false,
     "nivel_poder": 9999999999,
     "transformaciones": [],
-    "universo": 0
+    "numero_transformaciones": 0,
+    "universo": 0,
+    "rango": "Rey de Todo",
+    "tecnica_favorita": "Eliminación total"
   },
   {
     "nombre": "Jiren",
     "es_saiyan": false,
     "nivel_poder": 1200000000,
     "transformaciones": [],
-    "universo": 11
+    "numero_transformaciones": 0,
+    "universo": 11,
+    "rango": "Guerrero del Orgullo",
+    "tecnica_favorita": "Impacto de poder"
   },
   {
     "nombre": "Caulifla",
     "es_saiyan": true,
     "nivel_poder": 700000000,
     "transformaciones": ["Super Saiyan", "Super Saiyan 2"],
-    "universo": 6
+    "numero_transformaciones": 2,
+    "universo": 6,
+    "rango": "Saiyan Rebelde",
+    "tecnica_favorita": "Aceleración de Ki"
   },
   {
     "nombre": "Kale",
     "es_saiyan": true,
     "nivel_poder": 950000000,
     "transformaciones": ["Legendary Super Saiyan"],
-    "universo": 6
+    "numero_transformaciones": 1,
+    "universo": 6,
+    "rango": "Saiyan Legendaria",
+    "tecnica_favorita": "Explosión de furia"
   },
   {
     "nombre": "Cabba",
     "es_saiyan": true,
     "nivel_poder": 600000000,
     "transformaciones": ["Super Saiyan"],
-    "universo": 6
+    "numero_transformaciones": 1,
+    "universo": 6,
+    "rango": "Guerrero Saiyan",
+    "tecnica_favorita": "Explosión galáctica"
   },
   {
     "nombre": "Hit",
     "es_saiyan": false,
     "nivel_poder": 1000000000,
     "transformaciones": [],
-    "universo": 6
+    "numero_transformaciones": 0,
+    "universo": 6,
+    "rango": "Asesino legendario",
+    "tecnica_favorita": "Salto en el tiempo"
   },
   {
     "nombre": "Android 17",
     "es_saiyan": false,
     "nivel_poder": 850000000,
     "transformaciones": [],
-    "universo": 7
+    "numero_transformaciones": 0,
+    "universo": 7,
+    "rango": "Androide",
+    "tecnica_favorita": "Escudo de energía"
   },
   {
     "nombre": "Android 18",
     "es_saiyan": false,
     "nivel_poder": 600000000,
     "transformaciones": [],
-    "universo": 7
+    "numero_transformaciones": 0,
+    "universo": 7,
+    "rango": "Androide",
+    "tecnica_favorita": "Explosión de poder"
   },
   {
     "nombre": "Cell",
     "es_saiyan": false,
     "nivel_poder": 900000000,
     "transformaciones": ["Perfect Cell"],
-    "universo": 7
+    "numero_transformaciones": 1,
+    "universo": 7,
+    "rango": "Androide",
+    "tecnica_favorita": "Explosión de poder"
   },
   {
     "nombre": "Tien",
     "es_saiyan": false,
     "nivel_poder": 1000000,
     "transformaciones": [],
-    "universo": 7
+    "numero_transformaciones": 0,
+    "universo": 7,
+    "rango": "Guerrero Z",
+    "tecnica_favorita": "Shin Kikoho"
   },
   {
     "nombre": "Yamcha",
     "es_saiyan": false,
     "nivel_poder": 500000,
     "transformaciones": [],
-    "universo": 7
+    "numero_transformaciones": 0,
+    "universo": 7,
+    "rango": "Guerrero Z",
+    "tecnica_favorita": "Rogafufuken"
   },
   {
     "nombre": "Videl",
     "es_saiyan": false,
     "nivel_poder": 10000,
     "transformaciones": [],
-    "universo": 7
+    "numero_transformaciones": 0,
+    "universo": 7,
+    "rango": "Guerrera",
+    "tecnica_favorita": "Vuelo"
   }
 ]
